@@ -1,0 +1,27 @@
+Flow ID,Test Steps,Flow Priority
+3,"step 1: Navigate to Page category chekhly-dlya-samsung
+step 2: At Page category chekhly-dlya-samsung click on hyperlink product samsung clear cover --> navigate to Page product samsung-clear-cover
+step 3: At Page product samsung-clear-cover click on label object
+step 4: At Page product samsung-clear-cover click on button object
+step 5: Add visual checkpoint at Page product samsung-clear-cover",High
+2,"step 1: Navigate to Page category chekhly-na-ipad
+step 2: At Page category chekhly-na-ipad click on button object
+step 3: At Page category chekhly-na-ipad click on label object
+step 4: At Page category chekhly-na-ipad click on button object
+step 5: Add visual checkpoint at Page category chekhly-na-ipad",High
+7,"step 1: Navigate to Page checkout payment
+step 2: Add visual checkpoint at Page checkout payment",High
+1,"step 1: Navigate to Page category dlya-devushek
+step 2: At Page category dlya-devushek click on button object
+step 3: At Page category dlya-devushek click on button object
+step 4: At Page category dlya-devushek click on label object
+step 5: At Page category dlya-devushek click on button object
+step 6: Add visual checkpoint at Page category dlya-devushek",High
+5,"step 1: Navigate to Page cart
+step 2: Add visual checkpoint at Page cart",High
+8,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Medium
+6,"step 1: Navigate to Page checkout shipping-address
+step 2: Add visual checkpoint at Page checkout shipping-address",Medium
+4,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",Low
