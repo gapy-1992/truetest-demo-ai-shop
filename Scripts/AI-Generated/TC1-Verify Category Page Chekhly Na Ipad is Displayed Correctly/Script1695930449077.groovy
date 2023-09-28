@@ -1,7 +1,7 @@
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import internal.GlobalVariable as GlobalVariable
-import com.kms.katalon.core.model.FailureHandling
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.model.FailureHandling
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,9 +15,9 @@ def setup() {
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
 
-'step 2: At Page home click on hyperlink category chekhly dlya samsung --> navigate to Page category chekhly-dlya-samsung'
+'step 2: At Page home click on hyperlink category chekhly na ipad --> navigate to Page category chekhly-na-ipad'
 
-testObj = findTestObject('Object Repository/Page_home/hyperlink_category_chekhly_dlya_samsung')
+testObj = findTestObject('Object Repository/Page_home/hyperlink_category_chekhly_na_ipad')
 
 WebUI.delay(3)
 
@@ -29,21 +29,7 @@ WebUI.verifyMatch(WebUI.getUrl(), '.*/(?:#.*)?(?:\\?.*)?$', true)
 
 WebUI.enhancedClick(testObj)
 
-'step 3: At Page category chekhly-dlya-samsung click on hyperlink category chekhly na ipad --> navigate to Page category chekhly-na-ipad'
-
-testObj = findTestObject('Object Repository/Page_category_chekhly-dlya-samsung/hyperlink_category_chekhly_na_ipad')
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot()
-
-WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.verifyMatch(WebUI.getUrl(), '.*/category/chekhly-dlya-samsung(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(testObj)
-
-'step 4: At Page category chekhly-na-ipad click on button object'
+'step 3: At Page category chekhly-na-ipad click on button object'
 
 testObj = findTestObject('Object Repository/Page_category_chekhly-na-ipad/button_object')
 
@@ -57,7 +43,7 @@ WebUI.verifyMatch(WebUI.getUrl(), '.*/category/chekhly-na-ipad(?:#.*)?(?:\\?.*)?
 
 WebUI.enhancedClick(testObj)
 
-'step 5: At Page category chekhly-na-ipad click on label object'
+'step 4: At Page category chekhly-na-ipad click on label object'
 
 testObj = findTestObject('Object Repository/Page_category_chekhly-na-ipad/label_object')
 
@@ -71,7 +57,7 @@ WebUI.verifyMatch(WebUI.getUrl(), '.*/category/chekhly-na-ipad(?:#.*)?(?:\\?.*)?
 
 WebUI.enhancedClick(testObj)
 
-'step 6: At Page category chekhly-na-ipad click on button object'
+'step 5: At Page category chekhly-na-ipad click on button object'
 
 testObj = findTestObject('Object Repository/Page_category_chekhly-na-ipad/button_object_1')
 
@@ -85,9 +71,9 @@ WebUI.verifyMatch(WebUI.getUrl(), '.*/category/chekhly-na-ipad(?:#.*)?(?:\\?.*)?
 
 WebUI.enhancedClick(testObj)
 
-'step 7: Add visual checkpoint at Page category chekhly-na-ipad'
+'step 6: Add visual checkpoint at Page category chekhly-na-ipad'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify successful navigation to Chekhly Na Ipad Category Page_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Category Page Chekhly Na Ipad is Displayed Correctly_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

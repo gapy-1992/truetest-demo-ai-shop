@@ -34,21 +34,6 @@
         "step 32: At Page checkout shipping-address click on select object",
         "step 33: At Page checkout shipping-address click on select object",
         "step 34: At Page checkout shipping-address click on button object",
-        "step 35: At Page checkout shipping-address click on div object",
-        "step 36: At Page checkout shipping-address click on label object",
-        "step 37: At Page checkout shipping-address click on small object",
-        "step 38: At Page checkout shipping-address click on span object",
-        "step 39: At Page checkout shipping-address input on input object",
-        "step 40: At Page checkout shipping-address input on input object",
-        "step 41: At Page checkout shipping-address input on input object",
-        "step 42: At Page checkout shipping-address input on input object",
-        "step 43: At Page checkout shipping-address input on input object",
-        "step 44: At Page checkout shipping-address input on input object",
-        "step 45: At Page checkout shipping-address input on input object",
-        "step 46: At Page checkout shipping-address click on select object",
-        "step 47: At Page checkout shipping-address click on select object",
-        "step 48: At Page checkout shipping-address click on span object",
-        "step 49: At Page checkout shipping-address click on button object",
-        "step 50: Add visual checkpoint at Page checkout shipping-address"
+        "step 35: Add visual checkpoint at Page checkout shipping-address"
     ]
 }

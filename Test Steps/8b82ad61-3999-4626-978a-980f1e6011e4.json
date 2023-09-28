@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink category chekhly na ipad --> navigate to Page category chekhly-na-ipad",
+        "step 3: At Page category chekhly-na-ipad click on button object",
+        "step 4: At Page category chekhly-na-ipad click on label object",
+        "step 5: At Page category chekhly-na-ipad click on button object",
+        "step 6: Add visual checkpoint at Page category chekhly-na-ipad"
+    ]
+}
