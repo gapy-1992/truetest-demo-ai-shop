@@ -1,91 +1,18 @@
 Flow ID,Test Steps,Flow Priority
-4,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink category chekhly dlya samsung --> navigate to Page category chekhly-dlya-samsung
-step 3: At Page category chekhly-dlya-samsung click on div object --> navigate to Page product samsung-orange-book-1
-step 4: At Page product samsung-orange-book-1 click on div object
-step 5: At Page product samsung-orange-book-1 click on label object
-step 6: At Page product samsung-orange-book-1 input on input object
-step 7: At Page product samsung-orange-book-1 click on button object
-step 8: At Page product samsung-orange-book-1 click on hyperlink cart --> navigate to Page cart
-step 9: At Page cart click on button object --> navigate to Page checkout info
-step 10: At Page checkout info input on input object
-step 11: At Page checkout info click on input object
-step 12: At Page checkout info click on button object --> navigate to Page checkout shipping-address
-step 13: At Page checkout shipping-address click on span object
-step 14: At Page checkout shipping-address click on small object
-step 15: At Page checkout shipping-address click on span object
-step 16: At Page checkout shipping-address input on input object
-step 17: At Page checkout shipping-address input on input object
-step 18: At Page checkout shipping-address input on input object
-step 19: At Page checkout shipping-address input on input object
-step 20: At Page checkout shipping-address input on input object
-step 21: At Page checkout shipping-address input on input object
-step 22: At Page checkout shipping-address input on input object
-step 23: At Page checkout shipping-address click on select object
-step 24: At Page checkout shipping-address click on select object
-step 25: At Page checkout shipping-address input on input object
-step 26: At Page checkout shipping-address click on span object
-step 27: At Page checkout shipping-address input on input object
-step 28: At Page checkout shipping-address input on input object
-step 29: At Page checkout shipping-address input on input object
-step 30: At Page checkout shipping-address input on input object
-step 31: At Page checkout shipping-address input on input object
-step 32: At Page checkout shipping-address input on input object
-step 33: At Page checkout shipping-address input on input object
-step 34: At Page checkout shipping-address click on select object
-step 35: At Page checkout shipping-address click on select object
-step 36: At Page checkout shipping-address click on button object
-step 37: Add visual checkpoint at Page checkout shipping-address",High
-5,"step 1: Navigate to Page category dlya-devushek
-step 2: At Page category dlya-devushek click on button object
-step 3: At Page category dlya-devushek click on button object
-step 4: At Page category dlya-devushek click on label object
-step 5: At Page category dlya-devushek click on button object
-step 6: At Page category dlya-devushek click on hyperlink cart --> navigate to Page cart
-step 7: At Page cart click on button object --> navigate to Page checkout info
-step 8: At Page checkout info input on input object
-step 9: At Page checkout info click on input object
-step 10: At Page checkout info click on button object --> navigate to Page checkout shipping-address
-step 11: At Page checkout shipping-address click on span object
-step 12: At Page checkout shipping-address click on small object
-step 13: At Page checkout shipping-address click on span object
-step 14: At Page checkout shipping-address input on input object
-step 15: At Page checkout shipping-address input on input object
-step 16: At Page checkout shipping-address input on input object
-step 17: At Page checkout shipping-address input on input object
-step 18: At Page checkout shipping-address input on input object
-step 19: At Page checkout shipping-address input on input object
-step 20: At Page checkout shipping-address input on input object
-step 21: At Page checkout shipping-address click on select object
-step 22: At Page checkout shipping-address click on select object
-step 23: At Page checkout shipping-address input on input object
-step 24: At Page checkout shipping-address click on span object
-step 25: At Page checkout shipping-address input on input object
-step 26: At Page checkout shipping-address input on input object
-step 27: At Page checkout shipping-address input on input object
-step 28: At Page checkout shipping-address input on input object
-step 29: At Page checkout shipping-address input on input object
-step 30: At Page checkout shipping-address input on input object
-step 31: At Page checkout shipping-address input on input object
-step 32: At Page checkout shipping-address click on select object
-step 33: At Page checkout shipping-address click on select object
-step 34: At Page checkout shipping-address click on button object
-step 35: Add visual checkpoint at Page checkout shipping-address",Medium
 1,"step 1: Navigate to Page home
 step 2: At Page home click on button object
-step 3: At Page home click on label object
-step 4: At Page home click on button object
-step 5: Add visual checkpoint at Page home",Low
-2,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink category chekhly dlya samsung --> navigate to Page category chekhly-dlya-samsung
-step 3: At Page category chekhly-dlya-samsung click on hyperlink product samsung clear cover --> navigate to Page product samsung-clear-cover
-step 4: At Page product samsung-clear-cover click on label object
-step 5: At Page product samsung-clear-cover click on button object
-step 6: Add visual checkpoint at Page product samsung-clear-cover",Trivial
-3,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink category chekhly dlya samsung --> navigate to Page category chekhly-dlya-samsung
-step 3: At Page category chekhly-dlya-samsung click on hyperlink category chekhly na ipad --> navigate to Page category chekhly-na-ipad
-step 4: At Page category chekhly-na-ipad click on button object
-step 5: At Page category chekhly-na-ipad click on label object
-step 6: At Page category chekhly-na-ipad click on button object
-step 7: Add visual checkpoint at Page category chekhly-na-ipad",Trivial
+step 3: Add visual checkpoint at Page home",High
+6,"step 1: Navigate to Page product samsung-pink-cover
+step 2: Add visual checkpoint at Page product samsung-pink-cover",Trivial
+8,"step 1: Navigate to Page product samsung-clear-cover
+step 2: Add visual checkpoint at Page product samsung-clear-cover",Trivial
+2,"step 1: Navigate to Page cart
+step 2: Add visual checkpoint at Page cart",Trivial
+4,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Trivial
+7,"step 1: Navigate to Page category accessories
+step 2: Add visual checkpoint at Page category accessories",Trivial
+5,"step 1: Navigate to Page checkout shipping-address
+step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
+3,"step 1: Navigate to Page category dlya-devushek
+step 2: Add visual checkpoint at Page category dlya-devushek",Trivial
